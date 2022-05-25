@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32407.343
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula2505", "Aula2505\Aula2505.csproj", "{37D8EDD3-4213-4D5B-BBB4-090F2923D66B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClasseLampada", "Aula2505\ClasseLampada.csproj", "{37D8EDD3-4213-4D5B-BBB4-090F2923D66B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
